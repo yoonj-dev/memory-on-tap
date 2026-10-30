@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/dashboard/memorybattlegroundhero.tsx","./src/components/dashboard/memorysetmenuworkspace.tsx","./src/components/dashboard/tradingviewmemorycomparison.tsx","./src/components/layout/footer.tsx","./src/components/layout/header.tsx","./src/data/memorydata.ts","./src/lib/theme.ts","./src/types/memory.ts"],"version":"5.7.3"}
